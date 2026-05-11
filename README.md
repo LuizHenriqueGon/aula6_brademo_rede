@@ -62,28 +62,28 @@ Durante o desenvolvimento destas atividades, foram aplicados os seguintes concei
 ### Execução
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SeuUsuarioAqui/aula6_brademo_rede.git](https://github.com/SeuUsuarioAqui/aula6_brademo_rede.git)
-
+   git clone https://github.com/LuizHenriqueGon/aula6_brademo_rede.git
+   ```
 
 2. **Entre na pasta do projeto:**
-```bash
-cd aula6_brademo_rede
+   ```bash
+   cd aula6_brademo_rede
 
-```
+   ```
 
 
 3. **Instale as dependências:**
-```bash
-flutter pub get
+   ```bash
+   flutter pub get
 
-```
+   ```
 
 
 4. **Execute o aplicativo:**
-```bash
-flutter run
+   ```bash
+   flutter run
 
-```
+   ```
 
 
 
@@ -94,7 +94,3 @@ Desenvolvido por **Luiz Henrique** Estudante de Análise e Desenvolvimento de Si
 IFSP - Câmpus Bragança Paulista
 
 © 2026 BRADEMO Exercises. Todos os direitos reservados.
-
-```
-
-```
